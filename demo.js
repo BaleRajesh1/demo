@@ -1,1 +1,1 @@
-alert(0);
+alert("Vulnerable for XSS");
