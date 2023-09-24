@@ -1,1 +1,1 @@
-alert("Vulnerable for XSS");
+alert(document.cookie);
